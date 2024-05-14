@@ -1,0 +1,6 @@
+.cards{
+    display: inline-block;
+    background-color: tomato;
+    height: 700px;
+    width: 400px;
+}

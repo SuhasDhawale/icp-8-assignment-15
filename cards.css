@@ -29,3 +29,6 @@ body{
 .description{
     text-align: justify;
 }
+.cards:hover{
+    box-shadow: 5px 5px 5px 5px  rgb(114, 198, 226);
+}

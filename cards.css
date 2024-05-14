@@ -1,10 +1,23 @@
 .cards{
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 20px;
     display: inline-block;
-    background-color: tomato;
-    height: 950px;
+    background-color: white;
+    height: 1000px;
     width: 400px;
 }
 .poster{
+    border-radius: 20px;
     height: 600px;
     width: 400px;
+}
+
+.rating{
+    height: 20px;
+    width:20px;
+}
+body{
+    background-color: rgb(194, 219, 227);
 }
